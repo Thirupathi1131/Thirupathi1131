@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Durgam Thirupathi 
 
-<!--
-**Thirupathi1131/Thirupathi1131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about software development, data science, and continuous learning. Here you’ll find my projects, academic work, experiments, and contributions.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I love coding in Python and Java, and exploring new technologies.
+- 🌱 Currently pursuing B.Tech in Data Science at KPRIT.
+- 🤝 Always open to collaboration, innovation, and teamwork.
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python, Java, C, SQL
+- **Frameworks/Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn
+- **Tools:** Git, VS Code, Jupyter Notebook
+- **DBMS:** MySQL, SQLite
+
+## 🎓 Certifications
+
+- ✅ Guvi Python Certificate  
+- ✅ Guvi AI Certificate  
+- ✅ Next Wave Participation Workshop  
+- ✅ SAK Informatics Internship - Data Analysis (EDA)
+
+## 📫 How to Reach Me
+
+- **Email:** thirupathidurgam01@gmail.com
+- **LinkedIn:https://www.linkedin.com/in/durgam-thirupathi/
+- phone no: 9100744706
+
+---
+
+Thanks for visiting my profile! 🌟
