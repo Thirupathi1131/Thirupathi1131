@@ -1,26 +1,31 @@
-# 👋 Hi, I'm Durgam Thirupathi 
+## 👋 Hi, I'm Durgam Thirupathi
 
-Welcome to my GitHub profile! I'm passionate about software development, data science, and continuous learning. Here you’ll find my projects, academic work, experiments, and contributions.
+🎯 **Aspiring Data Analyst | SQL | Python | Excel | Power BI**
 
-## 🚀 About Me
+I'm a Computer Science graduate specializing in Data Science, passionate about transforming raw data into meaningful insights that support better business decisions.
 
-- 💻 I love coding in Python and Java, and exploring new technologies.
-- 🌱 Currently pursuing B.Tech in Data Science at KPRIT.
-- 🤝 Always open to collaboration, innovation, and teamwork.
+📊 **What I Do**
+- Clean, analyze, and interpret data to discover useful insights.
+- Build interactive dashboards and reports using Power BI and Excel.
+- Write SQL queries to extract, transform, and analyze data.
+- Use Python, Pandas, and NumPy for data analysis.
 
-## 🛠️ Tech Stack
+🛠️ **Technical Skills**
+- **Languages:** Python, SQL
+- **Analytics Tools:** Microsoft Excel, Power BI
+- **Libraries:** Pandas, NumPy
+- **Core Skills:** Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, Business Intelligence
 
-- **Languages:** Python, Java, C, SQL
-- **Frameworks/Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn
-- **Tools:** Git, VS Code, Jupyter Notebook
-- **DBMS:** MySQL, SQLite
+🚀 **Currently Working On**
+- Data analytics projects and interactive dashboards.
+- Strengthening SQL, Excel, Python, and Power BI skills.
+- Building a portfolio of real-world business analytics projects.
 
-## 🎓 Certifications
+🤝 **Open to:** Entry-level Data Analyst, Business Analyst, and BI Analyst opportunities.
 
-- ✅ Guvi Python Certificate  
-- ✅ Guvi AI Certificate  
-- ✅ Next Wave Participation Workshop  
-- ✅ SAK Informatics Internship - Data Analysis (EDA)
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/Thirupathi1131)
+
+*Turning data into insights, one project at a time.*
 
 ## 📫 How to Reach Me
 
